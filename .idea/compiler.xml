@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-search_web (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall-api" target="1.5" />
+      <module name="mall-cart-service" target="1.5" />
+      <module name="mall-cart-service (1)" target="1.5" />
+      <module name="mall-cart-service (2)" target="1.5" />
+      <module name="mall-cart-web" target="1.5" />
+      <module name="mall-cart-web (2)" target="1.5" />
+      <module name="mall-comon-utils" target="1.5" />
+      <module name="mall-comon-utils (1)" target="1.5" />
+      <module name="mall-eureka-server7001" target="1.5" />
+      <module name="mall-eureka-server7001 (2)" target="1.5" />
+      <module name="mall-eureka-server7002" target="1.5" />
+      <module name="mall-eureka-server7002 (2)" target="1.5" />
+      <module name="mall-item-service" target="1.5" />
+      <module name="mall-item-service (1)" target="1.5" />
+      <module name="mall-item-service (2)" target="1.5" />
+      <module name="mall-item-web" target="1.5" />
+      <module name="mall-item-web (2)" target="1.5" />
+      <module name="mall-manage-service" target="1.5" />
+      <module name="mall-manage-service (2)" target="1.5" />
+      <module name="mall-manage-web" target="1.5" />
+      <module name="mall-manage-web (1)" target="1.5" />
+      <module name="mall-manage-web (2)" target="1.5" />
+      <module name="mall-parent" target="1.5" />
+      <module name="mall-search-service" target="1.5" />
+      <module name="mall-search-service (2)" target="1.5" />
+      <module name="mall-search_web" target="1.5" />
+      <module name="mall-search_web (1)" target="8" />
+      <module name="mall-search_web (2)" target="1.5" />
+      <module name="mall-service-util" target="1.5" />
+      <module name="mall-service-util (1)" target="1.5" />
+      <module name="mall-service-util (2)" target="1.5" />
+      <module name="mall-user-service" target="1.5" />
+      <module name="mall-user-service (1)" target="1.5" />
+      <module name="mall-user-web" target="1.5" />
+      <module name="mall-user-web (1)" target="1.5" />
+      <module name="mall-user-web (2)" target="1.5" />
+      <module name="mall-web-util" target="1.5" />
+      <module name="mall-web-util (1)" target="1.5" />
+      <module name="mall-zuul" target="1.5" />
+      <module name="mall-zuul (2)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

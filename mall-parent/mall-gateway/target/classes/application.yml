@@ -1,0 +1,40 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: mall-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: payment_route  # 路由的 id，没有固定规则但是要求要唯一，建议配合服务名
+          uri: lb://MALL-MANAGE-WEB
+          predicates:
+            - Path=/manageweb/**   # 匹配路径相同的路由
+
+
+#        - id: payment_route2  # 路由的 id，没有固定规则但是要求要唯一，建议配合服务名
+#          uri: lb://MALL-ITEM-WEB
+#          predicates:
+#            - Path=/**  # 匹配路径相同的路由
+
+        - id: payment_route3  # 路由的 id，没有固定规则但是要求要唯一，建议配合服务名
+          uri: lb://MALL-USER-WEB
+          predicates:
+            - Path=/userweb/**  # 匹配路径相同的路由
+#            - Path=/getAllUser
+
+
+eureka:
+  instance:
+    hostname: mall-gateway-service
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
+    # 是否启动swagger
+swagger:
+  open: true

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-comon-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-eureka-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-eureka-server7002/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-manage-service9001/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-web-util/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-comon-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-eureka-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-eureka-server7002/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-manage-service9001/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/mall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../myshopping/mall-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

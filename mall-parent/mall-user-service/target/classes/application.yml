@@ -1,0 +1,33 @@
+server:
+  port: 8070
+
+spring:
+  application:
+    name: mall-user-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #    url: jdbc:mysql://192.168.27.107:3306/cloud?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    #    username: root
+    #    password: root
+    url: jdbc:mysql://localhost:3307/springcloud?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: 123456
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+  instance:
+    prefer-ip-address: true #访问路径可以显示ip
+    #Eureka客户端向服务端发送心跳的实际间隔，单位为秒（默认为30秒）
+    lease-renewal-interval-in-seconds: 30
+    #Eureka服务端收到最后一次心跳后等待时间上线，单位为秒（默认为90秒） 超时将剔除服务
+    lease-expiration-duration-in-seconds: 90
+    instance-id: user-service8070
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true
+mapper:
+  identity: mysql

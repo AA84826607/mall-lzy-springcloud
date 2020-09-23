@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-api/mall-api (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-api/mall-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-cart-service/mall-cart-service (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-cart-service/mall-cart-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-cart-web/mall-cart-web (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-cart-web/mall-cart-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-comon-utils/mall-comon-utils (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-comon-utils/mall-comon-utils (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-eureka-server7001/mall-eureka-server7001 (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-eureka-server7001/mall-eureka-server7001 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-eureka-server7002/mall-eureka-server7002 (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-eureka-server7002/mall-eureka-server7002 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-item-service/mall-item-service (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-item-service/mall-item-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-item-web/mall-item-web (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-item-web/mall-item-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-lzy-springcloud.iml" filepath="$PROJECT_DIR$/mall-lzy-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-manage-service9001/mall-manage-service (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-manage-service9001/mall-manage-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-manage-web/mall-manage-web (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-manage-web/mall-manage-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-parent (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-search-service/mall-search-service (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-search-service/mall-search-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-search_web/mall-search_web (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-search_web/mall-search_web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-service-util/mall-service-util (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-service-util/mall-service-util (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-user-service/mall-user-service (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-user-service/mall-user-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-user-web/mall-user-web (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-user-web/mall-user-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-web-util/mall-web-util (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-web-util/mall-web-util (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-gateway/mall-zuul (1).iml" filepath="$PROJECT_DIR$/mall-parent/mall-gateway/mall-zuul (1).iml" />
+    </modules>
+  </component>
+</project>
